@@ -37,6 +37,6 @@ To pursue AI & ML research and build a long-term academic career in teaching and
 
 ---
 
-📫 **Contact:**  
+**Contact:**  
 GitHub: https://github.com/Tanveer-2002  
 LinkedIn: (add your link here)
