@@ -1,7 +1,7 @@
 # Hi, I'm Tanveer
 
 - 4th-year **CSE** Undergraduate at United International University  
-- **CGPA**: 3.88  
+- **CGPA**: 3.90  
 - **Research Interests**: Machine Learning, Reinforcement Learning, XAI & Robotics  
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 ## Experience
-- **Undergraduate Assistant (8 months)**  
+- **Undergraduate Assistant (14 months)**  
   Academic support, mentoring, lab assistance, and technical guidance  
 
 ---
